@@ -9,24 +9,25 @@
 
 ## Features
 
-* [Market](features/market/README.md)
-  * [API](features/market/api.md)
-  * [Preview](https://near-constructor.vercel.app/app/mfight-nft\_v2.testnet/sale)
-* [Rent](features/rent/README.md)
-  * [Page 2](features/rent/page-2.md)
-
-## Product Guides
-
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🖼 NFT](features/nft/README.md)
+  * [Overview](features/nft/overview.md)
+  * [Methods](features/nft/methods.md)
+  * [Events](features/nft/events.md)
+  * [The-Graph API](features/nft/the-graph-api.md)
+  * [Github Source](https://github.com/cultist-tech/cultist-sdk/tree/master/src/nft)
+  * [Demo](https://near-constructor.vercel.app/app/mfight-nft\_v2.testnet/sale)
+* [🪙 FT](features/ft.md)
+* [⚖ Market](features/market.md)
+* [⌚ Rent](features/rent.md)
+* [🔜 NFT First Sale](features/nft-first-sale.md)
+* [🧩 NFT Fractionation](features/nft-fractionation.md)
+* [🧑🤝🧑 Referral](features/referral.md)
+* [🔁 Escrow](features/escrow.md)
+* [🏆 Tournament](features/tournament.md)
+* [🛠 Utils](features/utils/README.md)
+  * [pause](features/utils/pause.md)
+  * [owner](features/utils/owner.md)
+  * [whitelist](features/utils/whitelist.md)
+  * [blacklist](features/utils/blacklist.md)
+  * [reputation](features/utils/reputation.md)
+  * [storage](features/utils/storage.md)
