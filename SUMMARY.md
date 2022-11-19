@@ -11,14 +11,15 @@
 
 * [🖼 NFT](features/nft/README.md)
   * [Overview](features/nft/overview.md)
-  * [Methods](features/nft/methods.md)
+  * [Methods](features/market/api.md)
   * [Events](features/nft/events.md)
   * [The-Graph API](features/nft/the-graph-api.md)
   * [Github Source](https://github.com/cultist-tech/cultist-sdk/tree/master/src/nft)
+  * [Github Example](https://github.com/cultist-tech/near-nft)
   * [Demo](https://near-constructor.vercel.app/app/mfight-nft\_v2.testnet/sale)
 * [🪙 FT](features/ft.md)
-* [⚖ Market](features/market.md)
-* [⌚ Rent](features/rent.md)
+* [⚖ Market](features/market/README.md)
+* [⌚ Rent](features/rent/README.md)
 * [🔜 NFT First Sale](features/nft-first-sale.md)
 * [🧩 NFT Fractionation](features/nft-fractionation.md)
 * [🧑🤝🧑 Referral](features/referral.md)
@@ -31,3 +32,9 @@
   * [blacklist](features/utils/blacklist.md)
   * [reputation](features/utils/reputation.md)
   * [storage](features/utils/storage.md)
+
+***
+
+* [Github](https://github.com/cultist-tech/cultist-sdk)
+* [GraphQL Playground](https://thegraph.com/hosted-service/subgraph/muzikanto/cultist)
+* [Constructor](http://cultist.tech/)
