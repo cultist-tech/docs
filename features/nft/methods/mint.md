@@ -1,5 +1,7 @@
 # Mint
 
+Minting is a base feature that creates NFT with appropriate metadata and specified additional features
+
 ### NFT mint
 
 Method creates NFT with the provided metadata and mints it to the receiver

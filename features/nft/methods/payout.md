@@ -2,6 +2,8 @@
 
 Feature implements NEP-199 standard
 
+Payout Feature allows NFT contracts to request that financial contracts pay-out multiple receivers, enabling flexible royalty implementations
+
 ### NFT payout
 
 Method views the payout mapping for the provided token with the provided balance

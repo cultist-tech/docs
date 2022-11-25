@@ -1,5 +1,7 @@
 # Upgrade
 
+Upgrade feature allows upgrade certain type NFTs by transferring a certain amount of FT or NEAR
+
 ### NFT upgrade
 
 Method upgrades NFT rarity feature up for one value

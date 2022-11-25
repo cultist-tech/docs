@@ -1,5 +1,7 @@
 # Royalty
 
+Royalty feature allows to set some royalties paid with every NFT transfer
+
 ### Set royalty value
 
 Method sets the provided royalty for the smart contract

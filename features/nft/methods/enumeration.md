@@ -1,4 +1,6 @@
-# View
+# Enumeration
+
+Enumeration methods perform various view calls to NFT smart contract, that can show some information about NFT state
 
 ### NFT token
 

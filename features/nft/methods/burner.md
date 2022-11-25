@@ -1,5 +1,7 @@
 # Burner
 
+Burner feature allows upgrade certain type NFTs by transferring a certain amount of NFTs of lesser value
+
 ### NFT burner upgrade
 
 Method upgrades NFT rarity feature up for one value, per burning a collection of NFTs with a given summarized rarity

@@ -2,6 +2,8 @@
 
 Feature implements NEP-178 standard
 
+Approval allows to transfer NFTs on behalf of an owner.
+
 ### NFT approve
 
 Method approves provided NFT token for provided account

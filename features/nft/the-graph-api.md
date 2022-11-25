@@ -105,7 +105,7 @@ fragment NftUpgrade on NftUpgrade {
 
 ### NftBurner
 
-```rust
+```graphql
 fragment NftBurner on NftBurner {
 	id: ID!
 	rarity: Int!

@@ -1,5 +1,7 @@
 # Reveal
 
+Reveal feature allows to hide NFT metadata for a certain period of time from minting and than reveal it
+
 ### NFT reveal
 
 Method reveals hidden NFT metadata

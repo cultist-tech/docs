@@ -1,5 +1,7 @@
 # Burn
 
+Burning is one of the basic features, that allows to destroy NFT you own
+
 ### NFT burn
 
 Method burns NFT by provided id
