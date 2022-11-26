@@ -1,0 +1,3 @@
+# 🪙 FT
+
+Fungible token feature

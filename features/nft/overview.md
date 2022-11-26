@@ -1,3 +1,3 @@
 # Overview
 
-NFT feature implements NEP-171 standart with additional features
+NFT feature implements NEP-171 standard with additional features
