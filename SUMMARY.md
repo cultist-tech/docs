@@ -1,11 +1,9 @@
 # Table of contents
 
-* [📖 Cultist Tech Docs](README.md)
-
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [📖 Smart Hub Docs](README.md)
+* [💡 Our vision](overview/our-vision.md)
 
 ## Features
 
@@ -29,15 +27,15 @@
   * [Github Source](https://github.com/cultist-tech/cultist-sdk/tree/master/src/nft)
   * [Github Example](https://github.com/cultist-tech/near-nft)
   * [Demo](https://near-constructor.vercel.app/app/mfight-nft\_v2.testnet/sale)
-* [🪙 FT](features/ft/README.md)
-  * [Overview](features/ft/overview.md)
-  * [Structures](features/ft/structures.md)
-  * [Methods](features/ft/methods/README.md)
-    * [Transfer](features/ft/methods/transfer.md)
-    * [Enumeration](features/ft/methods/enumeration.md)
-    * [Storage](features/ft/methods/storage.md)
-  * [Events](features/ft/events.md)
-  * [The-Graph API](features/ft/the-graph-api.md)
+* [🪙 FT - Fungible Token](features/ft-fungible-token/README.md)
+  * [Overview](features/ft-fungible-token/overview.md)
+  * [Structures](features/ft-fungible-token/structures.md)
+  * [Methods](features/ft-fungible-token/methods/README.md)
+    * [Transfer](features/ft-fungible-token/methods/transfer.md)
+    * [Enumeration](features/ft-fungible-token/methods/enumeration.md)
+    * [Storage](features/ft-fungible-token/methods/storage.md)
+  * [Events](features/ft-fungible-token/events.md)
+  * [The-Graph API](features/ft-fungible-token/the-graph-api.md)
   * [Github Source](https://github.com/cultist-tech/cultist-sdk/tree/master/src/ft)
   * [Github Example](https://github.com/cultist-tech/near-ft)
 * [⚖ Market](features/market/README.md)

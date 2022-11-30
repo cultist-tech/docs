@@ -1,3 +1,9 @@
+---
+description: NFT First Sale feature
+---
+
 # 🔜 NFT First Sale
 
-NFT First Sale feature
+{% content-ref url="overview.md" %}
+[overview.md](overview.md)
+{% endcontent-ref %}

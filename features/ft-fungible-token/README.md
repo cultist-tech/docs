@@ -1,8 +1,8 @@
 ---
-description: Rent feature
+description: Fungible token feature
 ---
 
-# ⌚ Rent
+# 🪙 FT - Fungible Token
 
 {% content-ref url="overview.md" %}
 [overview.md](overview.md)
