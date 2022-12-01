@@ -1,8 +1,4 @@
----
-description: Fractionation feature
----
-
-# 🧩 NFT Fractionation
+# 🏆 Tournament system
 
 {% content-ref url="overview.md" %}
 [overview.md](overview.md)
