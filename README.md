@@ -17,29 +17,3 @@ description: >-
 > 🔸Referral system\
 > 🔸Blockchain Consulting\
 > 🔸And a lot more features
-
-## Quick links
-
-{% content-ref url="overview/our-vision.md" %}
-[our-vision.md](overview/our-vision.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
